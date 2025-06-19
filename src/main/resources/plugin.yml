@@ -1,0 +1,10 @@
+name: XReplay CloudAddon
+version: 1.0.0
+main: de.badgames.xreplaycloud.XReplayCloudAddon
+description: Sets XReplay Variables based on the used CloudSystems and set a property on the Cloud regarding XReplay.
+author: Presti
+website: https://presti.me
+api-version: '1.17'
+folia-supported: true
+depend:
+  - ReplaySystem
